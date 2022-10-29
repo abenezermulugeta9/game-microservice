@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal Projects\\.NET\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "projectUniqueName": "D:\\Personal Projects\\.NET\\Game\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
       "projectName": "Play.Catalog.Service",
-      "projectPath": "D:\\Personal Projects\\.NET\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "projectPath": "D:\\Personal Projects\\.NET\\Game\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
       "packagesPath": "C:\\Users\\abene\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal Projects\\.NET\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+      "outputPath": "D:\\Personal Projects\\.NET\\Game\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abene\\AppData\\Roaming\\NuGet\\NuGet.Config"
