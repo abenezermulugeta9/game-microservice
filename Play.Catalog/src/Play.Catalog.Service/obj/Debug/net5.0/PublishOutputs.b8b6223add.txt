@@ -1,0 +1,11 @@
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.exe
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\appsettings.Development.json
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\appsettings.json
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.dll
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.deps.json
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.runtimeconfig.json
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Play.Catalog.Service.pdb
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Projects\.NET\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
